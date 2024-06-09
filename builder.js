@@ -6200,9 +6200,7 @@ object-assign
                                                         "div",
                                                         { className: _styles_components_sidebar__WEBPACK_IMPORTED_MODULE_5___default.a.text },
                                                         react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", { className: "ion-log-out" }),
-                                                        react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Save to device"),
-                                                    )
-                                                ),
+                                                        react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Save to device")),
                                                 react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
                                                     "div",
                                                     { className: _styles_components_sidebar__WEBPACK_IMPORTED_MODULE_5___default.a.row },
@@ -6218,9 +6216,10 @@ object-assign
                                                     )
                                                 )
                                             )
-                                        );
-                                    },
+										)	
+                                    )
                                 },
+                            },
                                 {
                                     key: "_exportFile",
                                     value: function () {

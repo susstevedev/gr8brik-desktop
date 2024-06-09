@@ -1,1 +1,1 @@
-start C:\gr8brik\ChromiumPortable.exe --app=C:\gr8brik\index.html
+start C:\gr8brik\ChromiumPortable.exe --app=C:\gr8brik\index.html --ignore-gpu-blacklist --ignore-gpu-blocklist
